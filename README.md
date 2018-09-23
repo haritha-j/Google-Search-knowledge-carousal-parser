@@ -1,7 +1,10 @@
 # Google-Search-knowledge-carousal-parser
-A simple script that extracts the list of items in the carousal returned by Google search's knowledge graph.
+
+#### A simple script that extracts the list of items in the carousal returned by Google search's knowledge graph.
 
 For many search terms that can return a list of answers, for instance "the cast of suits", Google's knowledge graph provides a carousal showing a list of top results.
+
+![screenshot](https://github.com/haritha-j/Google-Search-knowledge-carousal-parser/blob/master/Capture.PNG)
 
 This script extracts these results as a list of strings. 
 
